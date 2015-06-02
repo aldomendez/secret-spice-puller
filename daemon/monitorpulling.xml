@@ -1,0 +1,1 @@
+<service><id>monitorpulling.exe</id><name>MonitorPulling</name><description>NodeJs Web Pulling to update monitors</description><executable>C:\apps\node\node.exe</executable><arguments>--harmony "C:\apps\node-win\node_modules\node-windows\lib\wrapper.js" -f "C:\apps\node-win\puller.js" -l "MonitorPulling" -g 0.25 -w 1 -r 3 -a n</arguments><logmode>rotate</logmode></service>

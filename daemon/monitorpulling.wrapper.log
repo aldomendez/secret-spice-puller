@@ -1,0 +1,6 @@
+2015-06-01 19:35:12 - Starting C:\apps\node\node.exe --harmony "C:\apps\node-win\node_modules\node-windows\lib\wrapper.js" -f "C:\apps\node-win\puller.js" -l "MonitorPulling" -g 0.25 -w 1 -r 3 -a n
+2015-06-01 19:35:12 - Started 9576
+2015-06-01 20:30:50 - Starting C:\apps\node\node.exe --harmony "C:\apps\node-win\node_modules\node-windows\lib\wrapper.js" -f "C:\apps\node-win\puller.js" -l "MonitorPulling" -g 0.25 -w 1 -r 3 -a n
+2015-06-01 20:30:50 - Started 1604
+2015-06-01 21:00:57 - Starting C:\apps\node\node.exe --harmony "C:\apps\node-win\node_modules\node-windows\lib\wrapper.js" -f "C:\apps\node-win\puller.js" -l "MonitorPulling" -g 0.25 -w 1 -r 3 -a n
+2015-06-01 21:00:57 - Started 11180
